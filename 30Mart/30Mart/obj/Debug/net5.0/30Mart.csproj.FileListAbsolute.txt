@@ -1,0 +1,16 @@
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\30Mart.exe
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\30Mart.deps.json
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\30Mart.runtimeconfig.json
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\30Mart.runtimeconfig.dev.json
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\30Mart.dll
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\ref\30Mart.dll
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\bin\Debug\net5.0\30Mart.pdb
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.csproj.AssemblyReference.cache
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.AssemblyInfoInputs.cache
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.AssemblyInfo.cs
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.csproj.CoreCompileInputs.cache
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.dll
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\ref\30Mart.dll
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.pdb
+C:\Users\Elshad\Desktop\30Mart\30Mart\30Mart\obj\Debug\net5.0\30Mart.genruntimeconfig.cache
